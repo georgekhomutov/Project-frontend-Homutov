@@ -1,0 +1,37 @@
+.feedback-form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .feedback-form-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .feedback-form-container input,
+  .feedback-form-container textarea {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .feedback-form-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .feedback-form-container button:disabled {
+    background-color: #ccc;
+  }
+  
+  .feedback-form-container .error {
+    color: red;
+    font-size: 14px;
+    margin-top: -10px;
+  }
