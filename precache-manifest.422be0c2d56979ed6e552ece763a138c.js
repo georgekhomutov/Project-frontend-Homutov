@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3abdcedb6c9e5b5c92c731721c89e1d0",
+    "revision": "39302c4d5081d2581f6064d9aad96859",
     "url": "/Project-frontend-Homutov/index.html"
   },
   {
-    "revision": "505c28a8d505540c4081",
-    "url": "/Project-frontend-Homutov/static/css/main.427275ce.chunk.css"
+    "revision": "88654c0e69954e323a99",
+    "url": "/Project-frontend-Homutov/static/css/main.435d5fe5.chunk.css"
   },
   {
     "revision": "7d6b9f8978281162c50d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Project-frontend-Homutov/static/js/3.a29efab2.chunk.js"
   },
   {
-    "revision": "505c28a8d505540c4081",
+    "revision": "88654c0e69954e323a99",
     "url": "/Project-frontend-Homutov/static/js/main.26948cee.chunk.js"
   },
   {

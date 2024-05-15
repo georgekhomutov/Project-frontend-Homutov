@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Project-frontend-Homutov/static/css/main.427275ce.chunk.css",
+    "main.css": "/Project-frontend-Homutov/static/css/main.435d5fe5.chunk.css",
     "main.js": "/Project-frontend-Homutov/static/js/main.26948cee.chunk.js",
     "main.js.map": "/Project-frontend-Homutov/static/js/main.26948cee.chunk.js.map",
     "runtime~main.js": "/Project-frontend-Homutov/static/js/runtime~main.0675f1ab.js",
@@ -10,9 +10,9 @@
     "static/js/3.a29efab2.chunk.js": "/Project-frontend-Homutov/static/js/3.a29efab2.chunk.js",
     "static/js/3.a29efab2.chunk.js.map": "/Project-frontend-Homutov/static/js/3.a29efab2.chunk.js.map",
     "index.html": "/Project-frontend-Homutov/index.html",
-    "precache-manifest.73f2551b2da29b8ad4eb67377366b726.js": "/Project-frontend-Homutov/precache-manifest.73f2551b2da29b8ad4eb67377366b726.js",
+    "precache-manifest.422be0c2d56979ed6e552ece763a138c.js": "/Project-frontend-Homutov/precache-manifest.422be0c2d56979ed6e552ece763a138c.js",
     "service-worker.js": "/Project-frontend-Homutov/service-worker.js",
-    "static/css/main.427275ce.chunk.css.map": "/Project-frontend-Homutov/static/css/main.427275ce.chunk.css.map",
+    "static/css/main.435d5fe5.chunk.css.map": "/Project-frontend-Homutov/static/css/main.435d5fe5.chunk.css.map",
     "static/media/logo.svg": "/Project-frontend-Homutov/static/media/logo.06e73328.svg"
   }
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Project-frontend-Homutov/precache-manifest.73f2551b2da29b8ad4eb67377366b726.js"
+  "/Project-frontend-Homutov/precache-manifest.422be0c2d56979ed6e552ece763a138c.js"
 );
 
 self.addEventListener('message', (event) => {
