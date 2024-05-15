@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/georgekhomutov/Project-frontend-Homutov/static/css/main.427275ce.chunk.css",
-    "main.js": "/georgekhomutov/Project-frontend-Homutov/static/js/main.26948cee.chunk.js",
-    "main.js.map": "/georgekhomutov/Project-frontend-Homutov/static/js/main.26948cee.chunk.js.map",
-    "runtime~main.js": "/georgekhomutov/Project-frontend-Homutov/static/js/runtime~main.d02c8408.js",
-    "runtime~main.js.map": "/georgekhomutov/Project-frontend-Homutov/static/js/runtime~main.d02c8408.js.map",
-    "static/js/2.fd5371a8.chunk.js": "/georgekhomutov/Project-frontend-Homutov/static/js/2.fd5371a8.chunk.js",
-    "static/js/2.fd5371a8.chunk.js.map": "/georgekhomutov/Project-frontend-Homutov/static/js/2.fd5371a8.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/georgekhomutov/Project-frontend-Homutov/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/georgekhomutov/Project-frontend-Homutov/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/georgekhomutov/Project-frontend-Homutov/index.html",
-    "precache-manifest.00fe5d5c11bcbd2310049be94c4d9fcd.js": "/georgekhomutov/Project-frontend-Homutov/precache-manifest.00fe5d5c11bcbd2310049be94c4d9fcd.js",
-    "service-worker.js": "/georgekhomutov/Project-frontend-Homutov/service-worker.js",
-    "static/css/main.427275ce.chunk.css.map": "/georgekhomutov/Project-frontend-Homutov/static/css/main.427275ce.chunk.css.map",
-    "static/media/logo.svg": "/georgekhomutov/Project-frontend-Homutov/static/media/logo.06e73328.svg"
+    "main.css": "/Project-frontend-Homutov/static/css/main.427275ce.chunk.css",
+    "main.js": "/Project-frontend-Homutov/static/js/main.26948cee.chunk.js",
+    "main.js.map": "/Project-frontend-Homutov/static/js/main.26948cee.chunk.js.map",
+    "runtime~main.js": "/Project-frontend-Homutov/static/js/runtime~main.0675f1ab.js",
+    "runtime~main.js.map": "/Project-frontend-Homutov/static/js/runtime~main.0675f1ab.js.map",
+    "static/js/2.fd5371a8.chunk.js": "/Project-frontend-Homutov/static/js/2.fd5371a8.chunk.js",
+    "static/js/2.fd5371a8.chunk.js.map": "/Project-frontend-Homutov/static/js/2.fd5371a8.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/Project-frontend-Homutov/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/Project-frontend-Homutov/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/Project-frontend-Homutov/index.html",
+    "precache-manifest.73f2551b2da29b8ad4eb67377366b726.js": "/Project-frontend-Homutov/precache-manifest.73f2551b2da29b8ad4eb67377366b726.js",
+    "service-worker.js": "/Project-frontend-Homutov/service-worker.js",
+    "static/css/main.427275ce.chunk.css.map": "/Project-frontend-Homutov/static/css/main.427275ce.chunk.css.map",
+    "static/media/logo.svg": "/Project-frontend-Homutov/static/media/logo.06e73328.svg"
   }
 }
