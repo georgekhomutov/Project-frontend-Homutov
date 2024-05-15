@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Project-frontend-Homutov
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Описание проекта
 
-## Available Scripts
+Это frontend-приложение на основе React для проекта. Приложение использует styles для стилизации и структурировано с использованием модульного подхода для лучшей организации и поддерживаемости кода.
 
-In the project directory, you can run:
+## Ключевые особенности
 
-### `npm start`
+- Модульный дизайн: Проект организован в модульные компоненты, что способствует повторному использованию и поддерживаемости кода.
+- Styles: Использование styles для стилизации, что обеспечивает более чистый и поддерживаемый подход к CSS.
+- Адаптивный дизайн: Приложение адаптируется к различным размерам экранов и устройствам, обеспечивая единообразный пользовательский опыт на различных платформах.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Инструкция по установке
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Предварительные требования
 
-### `npm test`
+Убедитесь, что у вас установлены Node.js и npm.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Клонирование репозитория
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/georgekhomutov/Project-frontend-Homutov.git
+Переход в директорию проекта
+cd Project-frontend-Homutov
+Установка зависимостей
+npm install
+Запуск сервера разработки
+npm start
+Приложение запустится в режиме разработки, и вы сможете открыть его в браузере по адресу http://localhost:3000.
+Руководство по использованию
+ 1 Изучение компонентов:
+ • Перейдите в директорию src/components, чтобы изучить различные React-компоненты, из которых состоит приложение.
+ 2 Изучение стилей:
+ • Перейдите в директорию src/styles, чтобы изучить стили, используемые в проекте. Здесь вы найдете файлы со стилями, которые могут быть изменены для настройки внешнего вида приложения.
+ 3 Понимание потока данных:
+ • Исследуйте, как данные передаются между компонентами с использованием пропсов и управления состоянием.
+ 4 Модификация и настройка:
+ • Внесите изменения в компоненты, стили и данные для настройки поведения и внешнего вида приложения.
